@@ -1,0 +1,14 @@
+# Ignore local configuration (saves your click coordinates)
+config.json
+
+# Ignore logs and history
+log.txt
+logs/
+
+# Ignore actual data (keep your UUIDs private)
+Assets/Excels/*.xlsx
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
